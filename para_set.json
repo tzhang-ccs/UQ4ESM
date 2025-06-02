@@ -1,0 +1,9 @@
+{
+    "clubb_c8":[2.0,8.0],
+    "zmconv_tau":[1800,14400.0],
+    "nucleate_ice_subgrid":[1.0, 1.45],
+    "zmconv_ke":[0.5E-6,10E-6],
+    "p3_qc_accret_expon":[1,2],
+    "p3_autocon_coeff":[1350, 30500.0],
+    "p3_wbf_coeff":[0.1,1]
+}
